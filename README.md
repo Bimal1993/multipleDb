@@ -1,7 +1,7 @@
 # multipleDb
 Example to connect two database in a single spring boot application
 
-
+Based on two different databases
 
 spring.datasource.jdbc-url=jdbc:h2:mem:testdb
 spring.datasource.username=user1
